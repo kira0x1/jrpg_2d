@@ -1,0 +1,573 @@
+2025-05-17T08:38:13.270Z|0x6cf4|Using pre-set license
+2025-05-17T08:38:13.270Z|0x6cf4|Built from '6000.1/staging' branch; Version is '6000.1.3f1 (f34db9734971) revision 15945145'; Using compiler version '194234433'; Build Type 'Release'
+2025-05-17T08:38:13.270Z|0x6cf4|OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 65276 MB
+2025-05-17T08:38:13.270Z|0x6cf4|BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+2025-05-17T08:38:13.270Z|0x6cf4|Date: 2025-05-17T08:38:13Z
+2025-05-17T08:38:13.272Z|0x6cf4|
+COMMAND LINE ARGUMENTS:
+2025-05-17T08:38:13.272Z|0x6cf4|C:\Program Files\Unity\Hub\Editor\6000.1.3f1\Editor\Unity.exe
+2025-05-17T08:38:13.272Z|0x6cf4|-adb2
+2025-05-17T08:38:13.272Z|0x6cf4|-batchMode
+2025-05-17T08:38:13.272Z|0x6cf4|-noUpm
+2025-05-17T08:38:13.272Z|0x6cf4|-name
+2025-05-17T08:38:13.272Z|0x6cf4|AssetImportWorker0
+2025-05-17T08:38:13.272Z|0x6cf4|-projectPath
+2025-05-17T08:38:13.272Z|0x6cf4|C:/Users/kirae/Documents/projects/unity/jrpg_2d
+2025-05-17T08:38:13.272Z|0x6cf4|-logFile
+2025-05-17T08:38:13.272Z|0x6cf4|Logs/AssetImportWorker0.log
+2025-05-17T08:38:13.272Z|0x6cf4|-srvPort
+2025-05-17T08:38:13.272Z|0x6cf4|49497
+2025-05-17T08:38:13.272Z|0x6cf4|-job-worker-count
+2025-05-17T08:38:13.272Z|0x6cf4|15
+2025-05-17T08:38:13.272Z|0x6cf4|-background-job-worker-count
+2025-05-17T08:38:13.272Z|0x6cf4|8
+2025-05-17T08:38:13.272Z|0x6cf4|-gc-helper-count
+2025-05-17T08:38:13.272Z|0x6cf4|1
+2025-05-17T08:38:13.272Z|0x6cf4|-name
+2025-05-17T08:38:13.272Z|0x6cf4|AssetImport
+2025-05-17T08:38:13.272Z|0x6cf4|Successfully changed project path to: C:/Users/kirae/Documents/projects/unity/jrpg_2d
+2025-05-17T08:38:13.272Z|0x6cf4|C:/Users/kirae/Documents/projects/unity/jrpg_2d
+2025-05-17T08:38:13.273Z|0x6cf4|[UnityMemory] Configuration Parameters - Can be set up in boot.config
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-allocator-temp-initial-block-size-main=262144"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-bucket-allocator-granularity=16"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-bucket-allocator-bucket-count=8"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-bucket-allocator-block-size=33554432"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-bucket-allocator-block-count=8"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-main-allocator-block-size=16777216"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-thread-allocator-block-size=16777216"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-gfx-main-allocator-block-size=16777216"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-gfx-thread-allocator-block-size=16777216"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-cache-allocator-block-size=4194304"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-typetree-allocator-block-size=2097152"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-profiler-bucket-allocator-granularity=16"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-profiler-bucket-allocator-block-count=8"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-profiler-allocator-block-size=16777216"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-profiler-editor-allocator-block-size=1048576"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-temp-allocator-size-main=16777216"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-job-temp-allocator-block-size=2097152"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-job-temp-allocator-block-size-background=1048576"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-temp-allocator-size-background-worker=32768"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-temp-allocator-size-job-worker=262144"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-temp-allocator-size-preload-manager=33554432"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-temp-allocator-size-audio-worker=65536"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-temp-allocator-size-cloud-worker=32768"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T08:38:13.273Z|0x6cf4|    "memorysetup-temp-allocator-size-gfx=262144"
+2025-05-17T08:38:13.278Z|0x6cf4|Player connection [27892]  Target information:
+
+2025-05-17T08:38:13.278Z|0x6cf4|Player connection [27892]  * "[IP] 192.168.1.158 [Port] 0 [Flags] 2 [Guid] 524098963 [EditorId] 524098963 [Version] 1048832 [Id] WindowsEditor(7,kira-rtx) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+2025-05-17T08:38:13.278Z|0x6cf4|Player connection [27892]  * "[IP] 172.22.48.1 [Port] 0 [Flags] 2 [Guid] 524098963 [EditorId] 524098963 [Version] 1048832 [Id] WindowsEditor(7,kira-rtx) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+2025-05-17T08:38:13.278Z|0x6cf4|Player connection [27892]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 524098963 [EditorId] 524098963 [Version] 1048832 [Id] WindowsEditor(7,kira-rtx) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+2025-05-17T08:38:13.279Z|0x6cf4|Player connection [27892] Host joined multi-casting on [225.0.0.222:54997]...
+2025-05-17T08:38:13.280Z|0x6cf4|Player connection [27892] Host joined alternative multi-casting on [225.0.0.222:34997]...
+2025-05-17T08:38:13.280Z|0x6cf4|JobSystem: Creating JobQueue using job-worker-count value 15
+2025-05-17T08:38:13.283Z|0x6cf4|Input System module state changed to: Initialized.
+2025-05-17T08:38:13.283Z|0x6cf4|[Physics::Module] Initialized fallback backend.
+2025-05-17T08:38:13.284Z|0x6cf4|[Physics::Module] Id: 0xdecafbad
+2025-05-17T08:38:13.310Z|0x6cf4|Library Redirect Path: Library/
+2025-05-17T08:38:13.343Z|0x6cf4|[Physics::Module] Selected backend.
+2025-05-17T08:38:13.343Z|0x6cf4|[Physics::Module] Name: PhysX
+2025-05-17T08:38:13.343Z|0x6cf4|[Physics::Module] Id: 0xf2b8ea05
+2025-05-17T08:38:13.343Z|0x6cf4|[Physics::Module] SDK Version: 4.1.2
+2025-05-17T08:38:13.343Z|0x6cf4|[Physics::Module] Integration Version: 1.0.0
+2025-05-17T08:38:13.343Z|0x6cf4|[Physics::Module] Threading Mode: Multi-Threaded
+2025-05-17T08:38:13.351Z|0x6cf4|Refreshing native plugins compatible for Editor in 2.39 ms, found 4 plugins.
+2025-05-17T08:38:13.351Z|0x6cf4|Preloading 0 native plugins for Editor in 0.00 ms.
+2025-05-17T08:38:13.351Z|0x6cf4|Initialize engine version: 6000.1.3f1 (f34db9734971)
+2025-05-17T08:38:13.351Z|0x6cf4|[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/Resources/UnitySubsystems
+2025-05-17T08:38:13.351Z|0x6cf4|[Subsystems] Discovering subsystems at path C:/Users/kirae/Documents/projects/unity/jrpg_2d/Assets
+2025-05-17T08:38:13.351Z|0x6cf4|GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+2025-05-17T08:38:13.626Z|0x6cf4|Direct3D:
+2025-05-17T08:38:13.627Z|0x6cf4|    Version:         Direct3D 12 [level 12.1]
+2025-05-17T08:38:13.627Z|0x6cf4|    Renderer:        NVIDIA GeForce RTX 4080 SUPER (ID=0x2702)
+2025-05-17T08:38:13.627Z|0x6cf4|    Vendor:          NVIDIA
+2025-05-17T08:38:13.627Z|0x6cf4|    VRAM:            16047 MB
+2025-05-17T08:38:13.627Z|0x6cf4|    App VRAM Budget: 15279 MB
+2025-05-17T08:38:13.627Z|0x6cf4|    Driver:          32.0.15.7602
+2025-05-17T08:38:13.686Z|0x6cf4|Initialize mono
+2025-05-17T08:38:13.686Z|0x6cf4|Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/Managed'
+2025-05-17T08:38:13.686Z|0x6cf4|Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+2025-05-17T08:38:13.687Z|0x6cf4|Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/MonoBleedingEdge/etc'
+2025-05-17T08:38:13.687Z|0x6cf4|Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
+2025-05-17T08:38:13.716Z|0x6cf4|Begin MonoManager ReloadAssembly
+2025-05-17T08:38:13.843Z|0x6cf4|Registering precompiled unity dll's ...
+2025-05-17T08:38:13.843Z|0x6cf4|Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+2025-05-17T08:38:13.844Z|0x6cf4|Registered in 0.001055 seconds.
+2025-05-17T08:38:13.965Z|0x6cf4|- Loaded All Assemblies, in  0.250 seconds
+2025-05-17T08:38:14.018Z|0x6cf4|Native extension for WindowsStandalone target not found
+2025-05-17T08:38:14.185Z|0x6cf4|Mono: successfully reloaded assembly
+2025-05-17T08:38:14.197Z|0x6cf4|- Finished resetting the current domain, in  0.231 seconds
+2025-05-17T08:38:14.197Z|0x6cf4|Domain Reload Profiling: 480ms
+	BeginReloadAssembly (82ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (103ms)
+		LoadAssemblies (81ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (101ms)
+			TypeCache.Refresh (100ms)
+				TypeCache.ScanAssembly (91ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (231ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (201ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (34ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (40ms)
+			ProcessInitializeOnLoadAttributes (92ms)
+			ProcessInitializeOnLoadMethodAttributes (33ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+2025-05-17T08:38:14.316Z|0x6cf4|========================================================================
+2025-05-17T08:38:14.316Z|0x6cf4|Worker process is ready to serve import requests
+2025-05-17T08:38:14.316Z|0x6cf4|Import Worker Mode flag is 0x00
+2025-05-17T08:38:14.403Z|0x6cf4|Begin MonoManager ReloadAssembly
+2025-05-17T08:38:14.925Z|0x6cf4|- Loaded All Assemblies, in  0.522 seconds
+2025-05-17T08:38:15.089Z|0x6cf4|Refreshing native plugins compatible for Editor in 0.90 ms, found 4 plugins.
+2025-05-17T08:38:15.172Z|0x6cf4|Native extension for WindowsStandalone target not found
+2025-05-17T08:38:15.585Z|0x6cf4|Mono: successfully reloaded assembly
+2025-05-17T08:38:15.591Z|0x6cf4|- Finished resetting the current domain, in  0.501 seconds
+2025-05-17T08:38:15.592Z|0x6cf4|Domain Reload Profiling: 1021ms
+	BeginReloadAssembly (114ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (19ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (349ms)
+		LoadAssemblies (231ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (180ms)
+			TypeCache.Refresh (131ms)
+				TypeCache.ScanAssembly (120ms)
+			BuildScriptInfoCaches (39ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (501ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (411ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (80ms)
+			ProcessInitializeOnLoadAttributes (256ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+2025-05-17T08:38:15.705Z|0x6cf4|Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+2025-05-17T08:38:15.741Z|0x6cf4|Refreshing native plugins compatible for Editor in 0.77 ms, found 4 plugins.
+2025-05-17T08:38:15.741Z|0x6cf4|Preloading 0 native plugins for Editor in 0.00 ms.
+2025-05-17T08:38:15.742Z|0xcb0|Unloading 217 Unused Serialized files (Serialized files now loaded: 0)
+2025-05-17T08:38:15.749Z|0x6cf4|Unloading 6618 unused Assets / (6.6 MB). Loaded Objects now: 7285.
+Memory consumption went from 175.2 MB to 168.6 MB.
+2025-05-17T08:38:15.749Z|0x6cf4|Total: 6.384500 ms (FindLiveObjects: 0.479400 ms CreateObjectMapping: 0.254100 ms MarkObjects: 3.416500 ms  DeleteObjects: 2.233700 ms)
+
+2025-05-17T08:38:18.154Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 41713.890605 seconds.
+  path: Assets/DefaultVolumeProfile.asset
+  artifactKey: Guid(3f9215ea0144899419cfbc0957140d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:38:18.162Z|0x6cf4|Start importing Assets/DefaultVolumeProfile.asset using Guid(3f9215ea0144899419cfbc0957140d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1e3ee85287093c2e01e2184a29fd3edf') in 0.0159279 seconds
+2025-05-17T08:38:18.193Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2025-05-17T08:38:27.199Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 9.004897 seconds.
+  path: Assets/Kira/Scripts
+  artifactKey: Guid(610ed11227911b045885288be53ab379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:38:27.206Z|0x6cf4|Start importing Assets/Kira/Scripts using Guid(610ed11227911b045885288be53ab379) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '227c5a49ea39c322e2241d15822b96a1') in 0.0003904 seconds
+2025-05-17T08:38:27.222Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2025-05-17T08:38:35.796Z|0x6cf4|========================================================================
+2025-05-17T08:38:35.796Z|0x6cf4|Received Prepare
+2025-05-17T08:38:35.959Z|0x6cf4|Refreshing native plugins compatible for Editor in 0.95 ms, found 4 plugins.
+2025-05-17T08:38:35.959Z|0x6cf4|Preloading 0 native plugins for Editor in 0.00 ms.
+2025-05-17T08:38:35.959Z|0xcb0|Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+2025-05-17T08:38:35.967Z|0x6cf4|Unloading 6609 unused Assets / (6.5 MB). Loaded Objects now: 7292.
+Memory consumption went from 147.8 MB to 141.2 MB.
+2025-05-17T08:38:35.967Z|0x6cf4|Total: 6.143200 ms (FindLiveObjects: 0.434100 ms CreateObjectMapping: 0.258100 ms MarkObjects: 3.415100 ms  DeleteObjects: 2.034500 ms)
+
+2025-05-17T08:38:35.967Z|0x6cf4|Prepare: number of updated asset objects reloaded= 0
+2025-05-17T08:38:37.974Z|0x6cf4|========================================================================
+2025-05-17T08:38:37.974Z|0x6cf4|Received Prepare
+2025-05-17T08:38:38.069Z|0x6cf4|Begin MonoManager ReloadAssembly
+2025-05-17T08:38:38.542Z|0x6cf4|- Loaded All Assemblies, in  0.473 seconds
+2025-05-17T08:38:38.708Z|0x6cf4|Refreshing native plugins compatible for Editor in 0.91 ms, found 4 plugins.
+2025-05-17T08:38:38.787Z|0x6cf4|Native extension for WindowsStandalone target not found
+2025-05-17T08:38:39.086Z|0x6cf4|Package Manager log level set to [2]
+2025-05-17T08:38:39.086Z|0x6cf4|[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+2025-05-17T08:38:39.086Z|0x6cf4|[Package Manager] Unable to send message (not connected to server process).
+2025-05-17T08:38:39.086Z|0x6cf4|[Package Manager] Cannot connect to Unity Package Manager local server
+2025-05-17T08:38:39.138Z|0x6cf4|Mono: successfully reloaded assembly
+2025-05-17T08:38:39.151Z|0x6cf4|- Finished resetting the current domain, in  0.440 seconds
+2025-05-17T08:38:39.151Z|0x6cf4|Domain Reload Profiling: 915ms
+	BeginReloadAssembly (146ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (17ms)
+	LoadAllAssembliesAndSetupDomain (279ms)
+		LoadAssemblies (217ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (125ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (4ms)
+			BuildScriptInfoCaches (104ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (441ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (342ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (73ms)
+			ProcessInitializeOnLoadAttributes (225ms)
+			ProcessInitializeOnLoadMethodAttributes (38ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+2025-05-17T08:38:39.227Z|0x6cf4|Refreshing native plugins compatible for Editor in 0.76 ms, found 4 plugins.
+2025-05-17T08:38:39.228Z|0x6cf4|Preloading 0 native plugins for Editor in 0.00 ms.
+2025-05-17T08:38:39.228Z|0x7ad8|Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+2025-05-17T08:38:39.234Z|0x6cf4|Unloading 6620 unused Assets / (6.4 MB). Loaded Objects now: 7295.
+Memory consumption went from 152.4 MB to 146.0 MB.
+2025-05-17T08:38:39.234Z|0x6cf4|Total: 5.627300 ms (FindLiveObjects: 0.404200 ms CreateObjectMapping: 0.254800 ms MarkObjects: 3.028700 ms  DeleteObjects: 1.938900 ms)
+
+2025-05-17T08:38:39.234Z|0x6cf4|Prepare: number of updated asset objects reloaded= 0
+2025-05-17T08:41:43.985Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 196.762953 seconds.
+  path: Assets/Tiny RPG Forest/Scenes
+  artifactKey: Guid(2e39666c8d97146989e82f1b73e1f71c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:41:43.993Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Scenes using Guid(2e39666c8d97146989e82f1b73e1f71c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff6949949b21e643d6a06dfb9b51699a') in 0.0013923 seconds
+2025-05-17T08:41:44.010Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2025-05-17T08:41:44.713Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.702382 seconds.
+  path: Assets/Tiny RPG Forest/Scenes/Demo.unity
+  artifactKey: Guid(a2976afe523fb468ba0db9c74f827de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:41:44.719Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Scenes/Demo.unity using Guid(a2976afe523fb468ba0db9c74f827de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ffe3dd753f61d9ced4cbcd5cf3a40f95') in 0.0004091 seconds
+2025-05-17T08:41:44.732Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2025-05-17T08:41:53.239Z|0x6cf4|========================================================================
+2025-05-17T08:41:53.239Z|0x6cf4|Received Prepare
+2025-05-17T08:41:53.338Z|0x6cf4|Begin MonoManager ReloadAssembly
+2025-05-17T08:41:53.819Z|0x6cf4|- Loaded All Assemblies, in  0.482 seconds
+2025-05-17T08:41:53.982Z|0x6cf4|Refreshing native plugins compatible for Editor in 0.86 ms, found 4 plugins.
+2025-05-17T08:41:54.060Z|0x6cf4|Native extension for WindowsStandalone target not found
+2025-05-17T08:41:54.373Z|0x6cf4|[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+2025-05-17T08:41:54.373Z|0x6cf4|[Package Manager] Unable to send message (not connected to server process).
+2025-05-17T08:41:54.373Z|0x6cf4|[Package Manager] Cannot connect to Unity Package Manager local server
+2025-05-17T08:41:54.430Z|0x6cf4|Mono: successfully reloaded assembly
+2025-05-17T08:41:54.443Z|0x6cf4|- Finished resetting the current domain, in  0.459 seconds
+2025-05-17T08:41:54.443Z|0x6cf4|Domain Reload Profiling: 941ms
+	BeginReloadAssembly (143ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (289ms)
+		LoadAssemblies (218ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (131ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (114ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (460ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (361ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (74ms)
+			ProcessInitializeOnLoadAttributes (239ms)
+			ProcessInitializeOnLoadMethodAttributes (42ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+2025-05-17T08:41:54.546Z|0x6cf4|Refreshing native plugins compatible for Editor in 1.14 ms, found 4 plugins.
+2025-05-17T08:41:54.546Z|0x6cf4|Preloading 0 native plugins for Editor in 0.00 ms.
+2025-05-17T08:41:54.546Z|0x6f78|Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+2025-05-17T08:41:54.552Z|0x6cf4|Unloading 6620 unused Assets / (6.5 MB). Loaded Objects now: 7297.
+Memory consumption went from 151.0 MB to 144.4 MB.
+2025-05-17T08:41:54.552Z|0x6cf4|Total: 5.967300 ms (FindLiveObjects: 0.480700 ms CreateObjectMapping: 0.248600 ms MarkObjects: 3.178000 ms  DeleteObjects: 2.059100 ms)
+
+2025-05-17T08:41:54.552Z|0x6cf4|Prepare: number of updated asset objects reloaded= 0
+2025-05-17T08:42:01.859Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 17.126655 seconds.
+  path: Assets/Kira/Scenes/SampleScene.unity
+  artifactKey: Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:42:01.866Z|0x6cf4|Start importing Assets/Kira/Scenes/SampleScene.unity using Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4356a4e0efafe2da4e825d4a5b22b180') in 0.0011603 seconds
+2025-05-17T08:42:01.881Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2025-05-17T08:53:03.046Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 661.164261 seconds.
+  path: Assets/Kira/Scenes
+  artifactKey: Guid(109e9bdd0fcc649c5bc59085c35bdc83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:03.054Z|0x6cf4|Start importing Assets/Kira/Scenes using Guid(109e9bdd0fcc649c5bc59085c35bdc83) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'afdff4c3a2fdaa6f8b2ca806ac4aa93d') in 0.0007444 seconds
+2025-05-17T08:53:03.069Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2025-05-17T08:53:07.727Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 4.658017 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/Environment
+  artifactKey: Guid(100acaa2162c04f3c80ed7ec436e4f6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:07.734Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/Environment using Guid(100acaa2162c04f3c80ed7ec436e4f6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '87f85cbcc6cbdd849c89dbf593c6c4b7') in 0.0004647 seconds
+2025-05-17T08:53:07.749Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2025-05-17T08:53:07.809Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.060202 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/Environment/tileset.png
+  artifactKey: Guid(fa9008ba27d044823835d85918621932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:07.816Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/Environment/tileset.png using Guid(fa9008ba27d044823835d85918621932) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e06894e89a5094222731010228802db6') in 0.0970552 seconds
+2025-05-17T08:53:07.928Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:53:11.477Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 3.548528 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero
+  artifactKey: Guid(b06f4cfcd50704b4993d14e1a2761a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:11.484Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero using Guid(b06f4cfcd50704b4993d14e1a2761a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '34127f3114662a580b459d1f6dbf1dde') in 0.0004045 seconds
+2025-05-17T08:53:11.497Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2025-05-17T08:53:11.940Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.442842 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc
+  artifactKey: Guid(68085f438a58d403499b75e0b87ae892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:11.947Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc using Guid(68085f438a58d403499b75e0b87ae892) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '192482212b249b5c696265c684cffa62') in 0.0003933 seconds
+2025-05-17T08:53:11.962Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2025-05-17T08:53:12.023Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.062360 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/arrow.png
+  artifactKey: Guid(95406b6737b66479a80d172766f8bac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:12.031Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/arrow.png using Guid(95406b6737b66479a80d172766f8bac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2781f214872683d051db6f04d8672e96') in 0.0143541 seconds
+2025-05-17T08:53:12.058Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:53:23.123Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 11.064844 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/hearts
+  artifactKey: Guid(82c7e09e98270497688268a302d72b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:23.130Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/hearts using Guid(82c7e09e98270497688268a302d72b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b99abc92a5f77c884bc9c1786a963b5c') in 0.0004107 seconds
+2025-05-17T08:53:23.144Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2025-05-17T08:53:23.520Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.374946 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/hearts/hearts-1.png
+  artifactKey: Guid(8f03d65eca65243d0963f648c2e9824a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:23.526Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/hearts/hearts-1.png using Guid(8f03d65eca65243d0963f648c2e9824a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7574011a7b1e2a4bfc1a4065e2209133') in 0.0217319 seconds
+2025-05-17T08:53:23.563Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:53:30.718Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 7.155409 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/gem/gem-1.png
+  artifactKey: Guid(d1c1523651c71449cb32c2c7933acf8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:30.724Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/gem/gem-1.png using Guid(d1c1523651c71449cb32c2c7933acf8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '37f6751263ea933779ff7911f754dbd2') in 0.0262309 seconds
+2025-05-17T08:53:30.767Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:53:30.767Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/gem/gem-3.png
+  artifactKey: Guid(5bfad33111cd74875afe141dc1db8c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:30.773Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/gem/gem-3.png using Guid(5bfad33111cd74875afe141dc1db8c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e89160fb4d08a3c7183aeb63d2d08dc1') in 0.0206779 seconds
+2025-05-17T08:53:30.807Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:53:36.333Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 5.526388 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/enemy-death/enemy-death-1.png
+  artifactKey: Guid(56acb1bfd0b1049e89df9be859dc3615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:36.339Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/enemy-death/enemy-death-1.png using Guid(56acb1bfd0b1049e89df9be859dc3615) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd8d84ac8ea6ded09785d586ffc807b0c') in 0.0146195 seconds
+2025-05-17T08:53:36.370Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:53:36.370Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/enemy-death/enemy-death-6.png
+  artifactKey: Guid(071c2f3c390094fbe96e77d4670007d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:36.376Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/enemy-death/enemy-death-6.png using Guid(071c2f3c390094fbe96e77d4670007d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc7967728aed369f9055c9568d04cd10') in 0.0131887 seconds
+2025-05-17T08:53:36.405Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:53:36.405Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/enemy-death/enemy-death-5.png
+  artifactKey: Guid(53a1842734d514cbaa3c63fb01b8a2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:36.411Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/enemy-death/enemy-death-5.png using Guid(53a1842734d514cbaa3c63fb01b8a2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a29a8017ea6c89125f5b8e40dd09e3d') in 0.0107336 seconds
+2025-05-17T08:53:36.437Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:53:42.216Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 5.779436 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-2.png
+  artifactKey: Guid(bff474feb3ed041f0abe9d1ec39e3b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:42.223Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-2.png using Guid(bff474feb3ed041f0abe9d1ec39e3b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dfdd0e4f06a27f0764b99140137ba151') in 0.027946 seconds
+2025-05-17T08:53:42.269Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:53:42.269Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-4.png
+  artifactKey: Guid(601ee6102f54d41e9908ba8c8ade2173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:42.275Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/misc/coin/coin-4.png using Guid(601ee6102f54d41e9908ba8c8ade2173) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '86cac99050bb233b07c6813cae655dfb') in 0.011436 seconds
+2025-05-17T08:53:42.301Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:53:45.644Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 3.343057 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/attack/hero-attack-back/hero-attack-back-2.png
+  artifactKey: Guid(af44b838e74a6481b8e4c615bdbdd0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:45.650Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/attack/hero-attack-back/hero-attack-back-2.png using Guid(af44b838e74a6481b8e4c615bdbdd0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6693c806b9a82855195c1a31cdb7b5d6') in 0.020474 seconds
+2025-05-17T08:53:45.687Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:53:54.591Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 8.902752 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/attack/hero-attack-front/hero-attack-front-2.png
+  artifactKey: Guid(eef3b797d962d47419f4db6cf5144059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:54.596Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/attack/hero-attack-front/hero-attack-front-2.png using Guid(eef3b797d962d47419f4db6cf5144059) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '66c704b8a1bcab263b8924e68c5bbdee') in 0.0125977 seconds
+2025-05-17T08:53:54.625Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:53:55.095Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.470916 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/attack/hero-attack-side/hero-attack-side-2.png
+  artifactKey: Guid(461602cf177724a5b9780734e1f408fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:53:55.102Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/attack/hero-attack-side/hero-attack-side-2.png using Guid(461602cf177724a5b9780734e1f408fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b3576e8e78b7bfa3816241638a194f71') in 0.0131008 seconds
+2025-05-17T08:53:55.129Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:54:40.749Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 45.619779 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/treant/idle/treant-idle-front.png
+  artifactKey: Guid(06a287cc97cb64df8a11af10f2352365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:54:40.755Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/treant/idle/treant-idle-front.png using Guid(06a287cc97cb64df8a11af10f2352365) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45ff4f14fdad806a738d2885f9e76829') in 0.018313 seconds
+2025-05-17T08:54:40.787Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:54:45.195Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 4.408401 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/treant/walk/treant-walk-back/treant-walk-back-2.png
+  artifactKey: Guid(f14b7cc4c56574a62998ea5000f13357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:54:45.201Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/treant/walk/treant-walk-back/treant-walk-back-2.png using Guid(f14b7cc4c56574a62998ea5000f13357) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd2774aa4f7b02fa4fdd81c772c83d462') in 0.015148 seconds
+2025-05-17T08:54:45.234Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:54:45.234Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/treant/walk/treant-walk-back/treant-walk-back-4.png
+  artifactKey: Guid(7ee0977da157a4e579386ade0582feee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:54:45.240Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/treant/walk/treant-walk-back/treant-walk-back-4.png using Guid(7ee0977da157a4e579386ade0582feee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '88d85967b8a897a3ed4cb5fad79b7a6a') in 0.0118276 seconds
+2025-05-17T08:54:45.264Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:54:45.527Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.262926 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/treant/walk/treant-walk-front/treant-walk-front-2.png
+  artifactKey: Guid(fcacb8ef651174659a7e3e1449b859c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:54:45.534Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/treant/walk/treant-walk-front/treant-walk-front-2.png using Guid(fcacb8ef651174659a7e3e1449b859c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4dd16564fe3412c270275526c095bbcd') in 0.0127714 seconds
+2025-05-17T08:54:45.561Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:54:45.561Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/treant/walk/treant-walk-front/treant-walk-front-4.png
+  artifactKey: Guid(88b2c05b4d55c482b8e1d5fe0594d927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:54:45.566Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/treant/walk/treant-walk-front/treant-walk-front-4.png using Guid(88b2c05b4d55c482b8e1d5fe0594d927) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '317f5ea5c8da20a2dbeae4d9fd3d5ce4') in 0.0124972 seconds
+2025-05-17T08:54:45.592Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:54:45.877Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.284261 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/treant/walk/treant-walk-side/treant-walk-side-2.png
+  artifactKey: Guid(fafb79a14577a46f594f04e5635ad8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:54:45.882Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/sprites/treant/walk/treant-walk-side/treant-walk-side-2.png using Guid(fafb79a14577a46f594f04e5635ad8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3d2a1da525ac59b4aea8e3d24f9153c0') in 0.0136612 seconds
+2025-05-17T08:54:45.910Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:55:03.498Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 17.587852 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/Environment/waterfall animation/waterfall-2.png
+  artifactKey: Guid(0d8580bf6a8d0490ababa91f75326fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:55:03.504Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/Environment/waterfall animation/waterfall-2.png using Guid(0d8580bf6a8d0490ababa91f75326fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '07731f9fb1877d4f5a3c250abdb435fa') in 0.0148126 seconds
+2025-05-17T08:55:03.533Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:55:06.219Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 2.684985 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/Environment/sliced-objects/bush-tall.png
+  artifactKey: Guid(aa94c6da14ecf4a8690f02549a9ac6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:55:06.225Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/Environment/sliced-objects/bush-tall.png using Guid(aa94c6da14ecf4a8690f02549a9ac6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c49ebed90375a4b56f49f621f886a76') in 0.0160104 seconds
+2025-05-17T08:55:06.259Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:55:06.259Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/Environment/sliced-objects/rock-monument.png
+  artifactKey: Guid(2eb82ac66de274383af71b2eb2c75da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:55:06.266Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/Environment/sliced-objects/rock-monument.png using Guid(2eb82ac66de274383af71b2eb2c75da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '11654eafc7ea75c01b3da73cc7667eeb') in 0.0162677 seconds
+2025-05-17T08:55:06.298Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:55:06.298Z|0x6cf4|========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/Environment/sliced-objects/tree-pink.png
+  artifactKey: Guid(c008626f5108946299e1a584ba85fa5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:55:06.304Z|0x6cf4|Start importing Assets/Tiny RPG Forest/Artwork/Environment/sliced-objects/tree-pink.png using Guid(c008626f5108946299e1a584ba85fa5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b85cb061c41969eda71f8ae6e36aa63e') in 0.0161116 seconds
+2025-05-17T08:55:06.338Z|0x6cf4|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:56:11.331Z|0x7f60|Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+2025-05-17T08:56:11.369Z|0x6cf4|AssetImportWorker is now disconnected from the server
+2025-05-17T08:56:11.369Z|0x6cf4|Process exiting
+2025-05-17T08:56:11.369Z|0x6cf4|Exiting without the bug reporter. Application will terminate with return code 0

@@ -1,0 +1,519 @@
+2025-05-17T09:06:34.638Z|0x7d7c|Using pre-set license
+2025-05-17T09:06:34.638Z|0x7d7c|Built from '6000.1/staging' branch; Version is '6000.1.3f1 (f34db9734971) revision 15945145'; Using compiler version '194234433'; Build Type 'Release'
+2025-05-17T09:06:34.638Z|0x7d7c|OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 65276 MB
+2025-05-17T09:06:34.638Z|0x7d7c|BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+2025-05-17T09:06:34.638Z|0x7d7c|Date: 2025-05-17T09:06:34Z
+2025-05-17T09:06:34.641Z|0x7d7c|
+COMMAND LINE ARGUMENTS:
+2025-05-17T09:06:34.641Z|0x7d7c|C:\Program Files\Unity\Hub\Editor\6000.1.3f1\Editor\Unity.exe
+2025-05-17T09:06:34.641Z|0x7d7c|-adb2
+2025-05-17T09:06:34.641Z|0x7d7c|-batchMode
+2025-05-17T09:06:34.641Z|0x7d7c|-noUpm
+2025-05-17T09:06:34.641Z|0x7d7c|-name
+2025-05-17T09:06:34.641Z|0x7d7c|AssetImportWorker17
+2025-05-17T09:06:34.641Z|0x7d7c|-projectPath
+2025-05-17T09:06:34.641Z|0x7d7c|C:/Users/kirae/Documents/projects/unity/jrpg_2d
+2025-05-17T09:06:34.641Z|0x7d7c|-logFile
+2025-05-17T09:06:34.641Z|0x7d7c|Logs/AssetImportWorker17.log
+2025-05-17T09:06:34.641Z|0x7d7c|-srvPort
+2025-05-17T09:06:34.641Z|0x7d7c|49497
+2025-05-17T09:06:34.641Z|0x7d7c|-job-worker-count
+2025-05-17T09:06:34.641Z|0x7d7c|15
+2025-05-17T09:06:34.641Z|0x7d7c|-background-job-worker-count
+2025-05-17T09:06:34.641Z|0x7d7c|8
+2025-05-17T09:06:34.641Z|0x7d7c|-gc-helper-count
+2025-05-17T09:06:34.641Z|0x7d7c|1
+2025-05-17T09:06:34.641Z|0x7d7c|-name
+2025-05-17T09:06:34.642Z|0x7d7c|AssetImport
+2025-05-17T09:06:34.642Z|0x7d7c|Successfully changed project path to: C:/Users/kirae/Documents/projects/unity/jrpg_2d
+2025-05-17T09:06:34.642Z|0x7d7c|C:/Users/kirae/Documents/projects/unity/jrpg_2d
+2025-05-17T09:06:34.642Z|0x7d7c|[UnityMemory] Configuration Parameters - Can be set up in boot.config
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-allocator-temp-initial-block-size-main=262144"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-bucket-allocator-granularity=16"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-bucket-allocator-bucket-count=8"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-bucket-allocator-block-size=33554432"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-bucket-allocator-block-count=8"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-main-allocator-block-size=16777216"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-thread-allocator-block-size=16777216"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-gfx-main-allocator-block-size=16777216"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-gfx-thread-allocator-block-size=16777216"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-cache-allocator-block-size=4194304"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-typetree-allocator-block-size=2097152"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-profiler-bucket-allocator-granularity=16"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-profiler-bucket-allocator-block-count=8"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-profiler-allocator-block-size=16777216"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-profiler-editor-allocator-block-size=1048576"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-temp-allocator-size-main=16777216"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-job-temp-allocator-block-size=2097152"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-job-temp-allocator-block-size-background=1048576"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-temp-allocator-size-background-worker=32768"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-temp-allocator-size-job-worker=262144"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-temp-allocator-size-preload-manager=33554432"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-temp-allocator-size-audio-worker=65536"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-temp-allocator-size-cloud-worker=32768"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T09:06:34.642Z|0x7d7c|    "memorysetup-temp-allocator-size-gfx=262144"
+2025-05-17T09:06:34.648Z|0x7d7c|Player connection [32124]  Target information:
+
+2025-05-17T09:06:34.648Z|0x7d7c|Player connection [32124]  * "[IP] 192.168.1.158 [Port] 0 [Flags] 2 [Guid] 452713694 [EditorId] 452713694 [Version] 1048832 [Id] WindowsEditor(7,kira-rtx) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+2025-05-17T09:06:34.648Z|0x7d7c|Player connection [32124]  * "[IP] 172.22.48.1 [Port] 0 [Flags] 2 [Guid] 452713694 [EditorId] 452713694 [Version] 1048832 [Id] WindowsEditor(7,kira-rtx) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+2025-05-17T09:06:34.648Z|0x7d7c|Player connection [32124]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 452713694 [EditorId] 452713694 [Version] 1048832 [Id] WindowsEditor(7,kira-rtx) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+2025-05-17T09:06:34.650Z|0x7d7c|Player connection [32124] Host joined multi-casting on [225.0.0.222:54997]...
+2025-05-17T09:06:34.650Z|0x7d7c|Player connection [32124] Host joined alternative multi-casting on [225.0.0.222:34997]...
+2025-05-17T09:06:34.650Z|0x7d7c|JobSystem: Creating JobQueue using job-worker-count value 15
+2025-05-17T09:06:34.654Z|0x7d7c|Input System module state changed to: Initialized.
+2025-05-17T09:06:34.655Z|0x7d7c|[Physics::Module] Initialized fallback backend.
+2025-05-17T09:06:34.655Z|0x7d7c|[Physics::Module] Id: 0xdecafbad
+2025-05-17T09:06:34.685Z|0x7d7c|Library Redirect Path: Library/
+2025-05-17T09:06:34.721Z|0x7d7c|[Physics::Module] Selected backend.
+2025-05-17T09:06:34.722Z|0x7d7c|[Physics::Module] Name: PhysX
+2025-05-17T09:06:34.722Z|0x7d7c|[Physics::Module] Id: 0xf2b8ea05
+2025-05-17T09:06:34.722Z|0x7d7c|[Physics::Module] SDK Version: 4.1.2
+2025-05-17T09:06:34.722Z|0x7d7c|[Physics::Module] Integration Version: 1.0.0
+2025-05-17T09:06:34.722Z|0x7d7c|[Physics::Module] Threading Mode: Multi-Threaded
+2025-05-17T09:06:34.731Z|0x7d7c|Refreshing native plugins compatible for Editor in 2.19 ms, found 4 plugins.
+2025-05-17T09:06:34.731Z|0x7d7c|Preloading 0 native plugins for Editor in 0.00 ms.
+2025-05-17T09:06:34.731Z|0x7d7c|Initialize engine version: 6000.1.3f1 (f34db9734971)
+2025-05-17T09:06:34.731Z|0x7d7c|[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/Resources/UnitySubsystems
+2025-05-17T09:06:34.731Z|0x7d7c|[Subsystems] Discovering subsystems at path C:/Users/kirae/Documents/projects/unity/jrpg_2d/Assets
+2025-05-17T09:06:34.731Z|0x7d7c|GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+2025-05-17T09:06:35.275Z|0x7d7c|Direct3D:
+2025-05-17T09:06:35.275Z|0x7d7c|    Version:         Direct3D 12 [level 12.1]
+2025-05-17T09:06:35.275Z|0x7d7c|    Renderer:        NVIDIA GeForce RTX 4080 SUPER (ID=0x2702)
+2025-05-17T09:06:35.275Z|0x7d7c|    Vendor:          NVIDIA
+2025-05-17T09:06:35.275Z|0x7d7c|    VRAM:            16047 MB
+2025-05-17T09:06:35.275Z|0x7d7c|    App VRAM Budget: 15279 MB
+2025-05-17T09:06:35.275Z|0x7d7c|    Driver:          32.0.15.7602
+2025-05-17T09:06:35.350Z|0x7d7c|Initialize mono
+2025-05-17T09:06:35.350Z|0x7d7c|Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/Managed'
+2025-05-17T09:06:35.350Z|0x7d7c|Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+2025-05-17T09:06:35.350Z|0x7d7c|Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/MonoBleedingEdge/etc'
+2025-05-17T09:06:35.350Z|0x7d7c|Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56780
+2025-05-17T09:06:35.383Z|0x7d7c|Begin MonoManager ReloadAssembly
+2025-05-17T09:06:35.522Z|0x7d7c|Registering precompiled unity dll's ...
+2025-05-17T09:06:35.522Z|0x7d7c|Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+2025-05-17T09:06:35.523Z|0x7d7c|Registered in 0.000875 seconds.
+2025-05-17T09:06:35.674Z|0x7d7c|- Loaded All Assemblies, in  0.291 seconds
+2025-05-17T09:06:35.745Z|0x7d7c|Native extension for WindowsStandalone target not found
+2025-05-17T09:06:35.956Z|0x7d7c|Mono: successfully reloaded assembly
+2025-05-17T09:06:35.971Z|0x7d7c|- Finished resetting the current domain, in  0.297 seconds
+2025-05-17T09:06:35.972Z|0x7d7c|Domain Reload Profiling: 586ms
+	BeginReloadAssembly (84ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (130ms)
+		LoadAssemblies (83ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (128ms)
+			TypeCache.Refresh (127ms)
+				TypeCache.ScanAssembly (117ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (298ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (254ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (43ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (51ms)
+			ProcessInitializeOnLoadAttributes (103ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+2025-05-17T09:06:36.115Z|0x7d7c|========================================================================
+2025-05-17T09:06:36.115Z|0x7d7c|Worker process is ready to serve import requests
+2025-05-17T09:06:36.116Z|0x7d7c|Import Worker Mode flag is 0x00
+2025-05-17T09:06:36.211Z|0x7d7c|Begin MonoManager ReloadAssembly
+2025-05-17T09:06:36.813Z|0x7d7c|- Loaded All Assemblies, in  0.602 seconds
+2025-05-17T09:06:37.017Z|0x7d7c|Refreshing native plugins compatible for Editor in 1.48 ms, found 4 plugins.
+2025-05-17T09:06:37.113Z|0x7d7c|Native extension for WindowsStandalone target not found
+2025-05-17T09:06:37.521Z|0x7d7c|Package Manager log level set to [2]
+2025-05-17T09:06:37.521Z|0x7d7c|[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+2025-05-17T09:06:37.521Z|0x7d7c|[Package Manager] Unable to send message (not connected to server process).
+2025-05-17T09:06:37.522Z|0x7d7c|[Package Manager] Cannot connect to Unity Package Manager local server
+2025-05-17T09:06:37.618Z|0x7d7c|Mono: successfully reloaded assembly
+2025-05-17T09:06:37.625Z|0x7d7c|- Finished resetting the current domain, in  0.606 seconds
+2025-05-17T09:06:37.625Z|0x7d7c|Domain Reload Profiling: 1205ms
+	BeginReloadAssembly (126ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (411ms)
+		LoadAssemblies (283ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (194ms)
+			TypeCache.Refresh (135ms)
+				TypeCache.ScanAssembly (120ms)
+			BuildScriptInfoCaches (47ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (606ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (501ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (91ms)
+			ProcessInitializeOnLoadAttributes (328ms)
+			ProcessInitializeOnLoadMethodAttributes (74ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+2025-05-17T09:06:37.746Z|0x7d7c|Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+2025-05-17T09:06:37.790Z|0x7d7c|Refreshing native plugins compatible for Editor in 0.82 ms, found 4 plugins.
+2025-05-17T09:06:37.790Z|0x7d7c|Preloading 0 native plugins for Editor in 0.00 ms.
+2025-05-17T09:06:37.792Z|0x87b4|Unloading 217 Unused Serialized files (Serialized files now loaded: 0)
+2025-05-17T09:06:37.798Z|0x7d7c|Unloading 6622 unused Assets / (6.4 MB). Loaded Objects now: 7289.
+Memory consumption went from 177.1 MB to 170.7 MB.
+2025-05-17T09:06:37.798Z|0x7d7c|Total: 6.411600 ms (FindLiveObjects: 0.665400 ms CreateObjectMapping: 0.287400 ms MarkObjects: 3.413200 ms  DeleteObjects: 2.044800 ms)
+
+2025-05-17T09:06:39.232Z|0x7d7c|========================================================================
+2025-05-17T09:06:39.232Z|0x7d7c|Received Prepare
+2025-05-17T09:06:39.344Z|0x7d7c|Begin MonoManager ReloadAssembly
+2025-05-17T09:06:40.010Z|0x7d7c|- Loaded All Assemblies, in  0.666 seconds
+2025-05-17T09:06:40.266Z|0x7d7c|Refreshing native plugins compatible for Editor in 1.96 ms, found 4 plugins.
+2025-05-17T09:06:40.400Z|0x7d7c|Native extension for WindowsStandalone target not found
+2025-05-17T09:06:40.804Z|0x7d7c|[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+2025-05-17T09:06:40.804Z|0x7d7c|[Package Manager] Unable to send message (not connected to server process).
+2025-05-17T09:06:40.804Z|0x7d7c|[Package Manager] Cannot connect to Unity Package Manager local server
+2025-05-17T09:06:40.865Z|0x7d7c|Mono: successfully reloaded assembly
+2025-05-17T09:06:40.879Z|0x7d7c|- Finished resetting the current domain, in  0.611 seconds
+2025-05-17T09:06:40.879Z|0x7d7c|Domain Reload Profiling: 1278ms
+	BeginReloadAssembly (194ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (411ms)
+		LoadAssemblies (313ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (185ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (164ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (611ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (455ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (117ms)
+			ProcessInitializeOnLoadAttributes (286ms)
+			ProcessInitializeOnLoadMethodAttributes (44ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+2025-05-17T09:06:40.968Z|0x7d7c|Refreshing native plugins compatible for Editor in 1.25 ms, found 4 plugins.
+2025-05-17T09:06:40.968Z|0x7d7c|Preloading 0 native plugins for Editor in 0.00 ms.
+2025-05-17T09:06:40.969Z|0x5088|Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+2025-05-17T09:06:40.976Z|0x7d7c|Unloading 6620 unused Assets / (5.8 MB). Loaded Objects now: 7292.
+Memory consumption went from 152.3 MB to 146.4 MB.
+2025-05-17T09:06:40.976Z|0x7d7c|Total: 6.439000 ms (FindLiveObjects: 0.429400 ms CreateObjectMapping: 0.237100 ms MarkObjects: 3.509700 ms  DeleteObjects: 2.261700 ms)
+
+2025-05-17T09:06:40.976Z|0x7d7c|Prepare: number of updated asset objects reloaded= 0
+2025-05-17T09:08:22.570Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 43518.306258 seconds.
+  path: Assets/Kira/Materials
+  artifactKey: Guid(a9a535050b240044aa60d18e9468f249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:08:22.580Z|0x7d7c|Start importing Assets/Kira/Materials using Guid(a9a535050b240044aa60d18e9468f249) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f05928eca5ffcd260c214e0c8b9a1af0') in 0.0053559 seconds
+2025-05-17T09:08:22.601Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2025-05-17T09:08:33.457Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 10.855563 seconds.
+  path: Assets/Kira/Materials/TileMat.mat
+  artifactKey: Guid(ab4dc8b954d8b0e4098c573950576bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:08:33.465Z|0x7d7c|Start importing Assets/Kira/Materials/TileMat.mat using Guid(ab4dc8b954d8b0e4098c573950576bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e867614690d03bb523dc7019247af863') in 0.3746998 seconds
+2025-05-17T09:08:33.854Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+2025-05-17T09:08:45.344Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 11.489637 seconds.
+  path: Assets/Kira/Materials/TileMat.mat
+  artifactKey: Guid(ab4dc8b954d8b0e4098c573950576bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:08:45.352Z|0x7d7c|Start importing Assets/Kira/Materials/TileMat.mat using Guid(ab4dc8b954d8b0e4098c573950576bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7da5224fed14cd51e5bd374219478880') in 0.0170786 seconds
+2025-05-17T09:08:45.383Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+2025-05-17T09:08:58.509Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 13.125792 seconds.
+  path: Assets/Kira/Materials/TileMat.mat
+  artifactKey: Guid(ab4dc8b954d8b0e4098c573950576bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:08:58.516Z|0x7d7c|Start importing Assets/Kira/Materials/TileMat.mat using Guid(ab4dc8b954d8b0e4098c573950576bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f9a3f07f3824abc12e601899e33588a8') in 0.0057152 seconds
+2025-05-17T09:08:58.538Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+2025-05-17T09:09:00.453Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 1.915226 seconds.
+  path: Assets/Kira/Materials/TileMat.mat
+  artifactKey: Guid(ab4dc8b954d8b0e4098c573950576bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:00.460Z|0x7d7c|Start importing Assets/Kira/Materials/TileMat.mat using Guid(ab4dc8b954d8b0e4098c573950576bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0d72cfffb7d8aaf50309b6cfde11bcf5') in 0.0274635 seconds
+2025-05-17T09:09:00.502Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+2025-05-17T09:09:25.654Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 25.151216 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:25.660Z|0x7d7c|Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5419af9a7b9fa0afc66a62f59b9ba644') in 0.0188255 seconds
+2025-05-17T09:09:25.696Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+2025-05-17T09:09:25.696Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/attack-weapon/hero-attack-front/hero-attack-front-weapon-3.png
+  artifactKey: Guid(79e8ab09581164230b48e34a040d92ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:25.704Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/attack-weapon/hero-attack-front/hero-attack-front-weapon-3.png using Guid(79e8ab09581164230b48e34a040d92ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6dade7193d14ababe8b4c23c065f2cef') in 0.0265673 seconds
+2025-05-17T09:09:25.745Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:25.745Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/mole/walk/mole-walk-side/mole-walk-side-1.png
+  artifactKey: Guid(57c38e1609d50490e946ac9bad10eff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:25.752Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/mole/walk/mole-walk-side/mole-walk-side-1.png using Guid(57c38e1609d50490e946ac9bad10eff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '604fa4d6ed99b41bac8617abc426672c') in 0.0150697 seconds
+2025-05-17T09:09:25.784Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:25.784Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-6.png
+  artifactKey: Guid(280d5eb6ec4ee40a3922d520ee42863d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:25.791Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-6.png using Guid(280d5eb6ec4ee40a3922d520ee42863d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '35a9b67504f1523ef5f724cfe20c9671') in 0.0181749 seconds
+2025-05-17T09:09:25.832Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:25.832Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/mole/walk/mole-walk-back/mole-walk-back-3.png
+  artifactKey: Guid(40daa6fa617164001a05343550328629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:25.839Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/mole/walk/mole-walk-back/mole-walk-back-3.png using Guid(40daa6fa617164001a05343550328629) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0565db70f96c23e0e59cc42a1d4303f') in 0.0120248 seconds
+2025-05-17T09:09:25.868Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:25.868Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/mole/idle/mole-idle-side.png
+  artifactKey: Guid(a52d43b4ff4dc4dfb99b796681f175fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:25.875Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/mole/idle/mole-idle-side.png using Guid(a52d43b4ff4dc4dfb99b796681f175fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '40f10ec329cdaaeed3bfffeb3448b3c0') in 0.0162221 seconds
+2025-05-17T09:09:25.907Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:25.907Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-6.png
+  artifactKey: Guid(54e307e02e8174335a835d5efe3c8380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:25.914Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-6.png using Guid(54e307e02e8174335a835d5efe3c8380) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8fbd99c30791a52a66f5427ae892afc7') in 0.013074 seconds
+2025-05-17T09:09:25.943Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:25.943Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:25.951Z|0x7d7c|Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6dffac563a62ce2438861c36894ced2d') in 0.065048 seconds
+2025-05-17T09:09:26.028Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+2025-05-17T09:09:26.030Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-2.png
+  artifactKey: Guid(bf39c8ce7ced841cdadf0334489a8ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:26.036Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-2.png using Guid(bf39c8ce7ced841cdadf0334489a8ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e270b8a1df920962805a3d85ed9edd0') in 0.0143266 seconds
+2025-05-17T09:09:26.065Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:26.065Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:26.072Z|0x7d7c|Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2934ef025a164459eb34d9d36ebbff99') in 0.0429549 seconds
+2025-05-17T09:09:26.129Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+2025-05-17T09:09:26.129Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-4.png
+  artifactKey: Guid(82de06744ccd74b2cb215461eafffad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:26.135Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-4.png using Guid(82de06744ccd74b2cb215461eafffad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '76d3cfc0202bded7f051670565dc6b16') in 0.0143231 seconds
+2025-05-17T09:09:26.164Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:26.165Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/mole/walk/mole-walk-front/mole-walk-front-3.png
+  artifactKey: Guid(3c311fccc1bc3470d85f8915b9df0227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:26.170Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/mole/walk/mole-walk-front/mole-walk-front-3.png using Guid(3c311fccc1bc3470d85f8915b9df0227) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c10f19323f2fb2e5f519a519eceefdff') in 0.0131324 seconds
+2025-05-17T09:09:26.200Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:26.200Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-3.png
+  artifactKey: Guid(a7663080596d341069f6dbaaecd4ab9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:26.206Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-3.png using Guid(a7663080596d341069f6dbaaecd4ab9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd76b2679e6c2e175d8ea78c0afad471a') in 0.0149511 seconds
+2025-05-17T09:09:26.235Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:26.235Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-2.png
+  artifactKey: Guid(5365aa814486e4356841731775eab6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:26.240Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-2.png using Guid(5365aa814486e4356841731775eab6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '46121e21028880803aa46f6e324bb6fc') in 0.0166806 seconds
+2025-05-17T09:09:26.277Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:26.277Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-4.png
+  artifactKey: Guid(8d49905babc88495495ad3a6f7fce288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:26.283Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-4.png using Guid(8d49905babc88495495ad3a6f7fce288) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a3dc11e4181b584dcb18996d03452a55') in 0.0147603 seconds
+2025-05-17T09:09:26.314Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:26.314Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/attack-weapon/hero-attack-back/hero-attack-back-weapon-2.png
+  artifactKey: Guid(8d495247644fb40b5972c92de8b601e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:26.321Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/attack-weapon/hero-attack-back/hero-attack-back-weapon-2.png using Guid(8d495247644fb40b5972c92de8b601e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7abd5e555a2e214a3fb36bcaea7b7504') in 0.0140296 seconds
+2025-05-17T09:09:26.350Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:26.351Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/attack-weapon/hero-attack-front/hero-attack-front-weapon-1.png
+  artifactKey: Guid(d3fc86e87ed624cd4b99f41839d07872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:26.358Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/attack-weapon/hero-attack-front/hero-attack-front-weapon-1.png using Guid(d3fc86e87ed624cd4b99f41839d07872) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68111f08d33b034c1ef0b397b609f7e0') in 0.0137969 seconds
+2025-05-17T09:09:26.386Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:26.386Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/attack-weapon/hero-attack-back/hero-attack-back-weapon-3.png
+  artifactKey: Guid(afa49c1c777bc41729512b54c7cffb6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:26.393Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/attack-weapon/hero-attack-back/hero-attack-back-weapon-3.png using Guid(afa49c1c777bc41729512b54c7cffb6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a36bd7da9a5aa7ee689ee7761634991b') in 0.0202435 seconds
+2025-05-17T09:09:26.429Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:26.429Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/mole/walk/mole-walk-front/mole-walk-front-4.png
+  artifactKey: Guid(011420257b30442eda09d13513883885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:26.435Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/mole/walk/mole-walk-front/mole-walk-front-4.png using Guid(011420257b30442eda09d13513883885) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0390c20a5c7015d8a036822545689c8') in 0.0215319 seconds
+2025-05-17T09:09:26.484Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:26.484Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/attack-weapon/hero-attack-side/hero-attack-side-weapon-3.png
+  artifactKey: Guid(94f37dc86c80b4bbcb69aa5196138416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:26.494Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/attack-weapon/hero-attack-side/hero-attack-side-weapon-3.png using Guid(94f37dc86c80b4bbcb69aa5196138416) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3896717039d04957486600c129d60a82') in 0.0159808 seconds
+2025-05-17T09:09:26.530Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:26.530Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/attack-weapon/hero-attack-side/hero-attack-side-weapon-2.png
+  artifactKey: Guid(431ab203426d64ed7acac3c93c98b22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:26.537Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/attack-weapon/hero-attack-side/hero-attack-side-weapon-2.png using Guid(431ab203426d64ed7acac3c93c98b22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2c1cdcdbbf32f4eb9f5c3f1d0a578dad') in 0.0195688 seconds
+2025-05-17T09:09:26.585Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:09:26.585Z|0x7d7c|========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-1.png
+  artifactKey: Guid(2521b6229a37c4a56b4fd4e12227c2fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T09:09:26.595Z|0x7d7c|Start importing Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-1.png using Guid(2521b6229a37c4a56b4fd4e12227c2fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '98f4259b3636939fa85eb568b0d6c9cd') in 0.012227 seconds
+2025-05-17T09:09:26.634Z|0x7d7c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T09:10:17.019Z|0x7d7c|========================================================================
+2025-05-17T09:10:17.019Z|0x7d7c|Received Prepare
+2025-05-17T09:10:17.141Z|0x7d7c|Begin MonoManager ReloadAssembly
+2025-05-17T09:10:17.795Z|0x7d7c|- Loaded All Assemblies, in  0.654 seconds
+2025-05-17T09:10:18.064Z|0x7d7c|Refreshing native plugins compatible for Editor in 2.17 ms, found 4 plugins.
+2025-05-17T09:10:18.200Z|0x7d7c|Native extension for WindowsStandalone target not found
+2025-05-17T09:10:18.599Z|0x7d7c|[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+2025-05-17T09:10:18.599Z|0x7d7c|[Package Manager] Unable to send message (not connected to server process).
+2025-05-17T09:10:18.599Z|0x7d7c|[Package Manager] Cannot connect to Unity Package Manager local server
+2025-05-17T09:10:18.659Z|0x7d7c|Mono: successfully reloaded assembly
+2025-05-17T09:10:18.673Z|0x7d7c|- Finished resetting the current domain, in  0.606 seconds
+2025-05-17T09:10:18.673Z|0x7d7c|Domain Reload Profiling: 1261ms
+	BeginReloadAssembly (208ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (21ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (64ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (384ms)
+		LoadAssemblies (281ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (175ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (147ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (606ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (450ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (112ms)
+			ProcessInitializeOnLoadAttributes (285ms)
+			ProcessInitializeOnLoadMethodAttributes (44ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+2025-05-17T09:10:18.775Z|0x7d7c|Refreshing native plugins compatible for Editor in 0.81 ms, found 4 plugins.
+2025-05-17T09:10:18.775Z|0x7d7c|Preloading 0 native plugins for Editor in 0.00 ms.
+2025-05-17T09:10:18.776Z|0x7138|Unloading 50 Unused Serialized files (Serialized files now loaded: 0)
+2025-05-17T09:10:18.782Z|0x7d7c|Unloading 6633 unused Assets / (7.4 MB). Loaded Objects now: 7373.
+Memory consumption went from 164.8 MB to 157.4 MB.
+2025-05-17T09:10:18.782Z|0x7d7c|Total: 6.470800 ms (FindLiveObjects: 0.454700 ms CreateObjectMapping: 0.257300 ms MarkObjects: 3.345000 ms  DeleteObjects: 2.413000 ms)
+
+2025-05-17T09:10:18.782Z|0x7d7c|Prepare: number of updated asset objects reloaded= 0
+2025-05-17T09:10:26.620Z|0x83a8|Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+2025-05-17T09:10:26.681Z|0x83a8|AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+2025-05-17T09:10:26.682Z|0x7d7c|AssetImportWorker is now disconnected from the server
+2025-05-17T09:10:26.682Z|0x7d7c|Process exiting
+2025-05-17T09:10:26.682Z|0x7d7c|Exiting without the bug reporter. Application will terminate with return code 0

@@ -1,0 +1,640 @@
+2025-05-17T08:55:06.308Z|0x569c|Using pre-set license
+2025-05-17T08:55:06.308Z|0x569c|Built from '6000.1/staging' branch; Version is '6000.1.3f1 (f34db9734971) revision 15945145'; Using compiler version '194234433'; Build Type 'Release'
+2025-05-17T08:55:06.308Z|0x569c|OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 65276 MB
+2025-05-17T08:55:06.308Z|0x569c|BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+2025-05-17T08:55:06.308Z|0x569c|Date: 2025-05-17T08:55:06Z
+2025-05-17T08:55:06.310Z|0x569c|
+COMMAND LINE ARGUMENTS:
+2025-05-17T08:55:06.310Z|0x569c|C:\Program Files\Unity\Hub\Editor\6000.1.3f1\Editor\Unity.exe
+2025-05-17T08:55:06.310Z|0x569c|-adb2
+2025-05-17T08:55:06.310Z|0x569c|-batchMode
+2025-05-17T08:55:06.310Z|0x569c|-noUpm
+2025-05-17T08:55:06.310Z|0x569c|-name
+2025-05-17T08:55:06.310Z|0x569c|AssetImportWorker4
+2025-05-17T08:55:06.310Z|0x569c|-projectPath
+2025-05-17T08:55:06.310Z|0x569c|C:/Users/kirae/Documents/projects/unity/jrpg_2d
+2025-05-17T08:55:06.310Z|0x569c|-logFile
+2025-05-17T08:55:06.310Z|0x569c|Logs/AssetImportWorker4.log
+2025-05-17T08:55:06.310Z|0x569c|-srvPort
+2025-05-17T08:55:06.310Z|0x569c|49497
+2025-05-17T08:55:06.310Z|0x569c|-job-worker-count
+2025-05-17T08:55:06.310Z|0x569c|15
+2025-05-17T08:55:06.310Z|0x569c|-background-job-worker-count
+2025-05-17T08:55:06.310Z|0x569c|8
+2025-05-17T08:55:06.310Z|0x569c|-gc-helper-count
+2025-05-17T08:55:06.310Z|0x569c|1
+2025-05-17T08:55:06.310Z|0x569c|-name
+2025-05-17T08:55:06.310Z|0x569c|AssetImport
+2025-05-17T08:55:06.310Z|0x569c|Successfully changed project path to: C:/Users/kirae/Documents/projects/unity/jrpg_2d
+2025-05-17T08:55:06.311Z|0x569c|C:/Users/kirae/Documents/projects/unity/jrpg_2d
+2025-05-17T08:55:06.311Z|0x569c|[UnityMemory] Configuration Parameters - Can be set up in boot.config
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-allocator-temp-initial-block-size-main=262144"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-bucket-allocator-granularity=16"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-bucket-allocator-bucket-count=8"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-bucket-allocator-block-size=33554432"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-bucket-allocator-block-count=8"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-main-allocator-block-size=16777216"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-thread-allocator-block-size=16777216"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-gfx-main-allocator-block-size=16777216"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-gfx-thread-allocator-block-size=16777216"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-cache-allocator-block-size=4194304"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-typetree-allocator-block-size=2097152"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-profiler-bucket-allocator-granularity=16"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-profiler-bucket-allocator-block-count=8"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-profiler-allocator-block-size=16777216"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-profiler-editor-allocator-block-size=1048576"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-temp-allocator-size-main=16777216"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-job-temp-allocator-block-size=2097152"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-job-temp-allocator-block-size-background=1048576"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-temp-allocator-size-background-worker=32768"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-temp-allocator-size-job-worker=262144"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-temp-allocator-size-preload-manager=33554432"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-temp-allocator-size-audio-worker=65536"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-temp-allocator-size-cloud-worker=32768"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2025-05-17T08:55:06.311Z|0x569c|    "memorysetup-temp-allocator-size-gfx=262144"
+2025-05-17T08:55:06.316Z|0x569c|Player connection [22172]  Target information:
+
+2025-05-17T08:55:06.316Z|0x569c|Player connection [22172]  * "[IP] 192.168.1.158 [Port] 0 [Flags] 2 [Guid] 4065457313 [EditorId] 4065457313 [Version] 1048832 [Id] WindowsEditor(7,kira-rtx) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+2025-05-17T08:55:06.316Z|0x569c|Player connection [22172]  * "[IP] 172.22.48.1 [Port] 0 [Flags] 2 [Guid] 4065457313 [EditorId] 4065457313 [Version] 1048832 [Id] WindowsEditor(7,kira-rtx) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+2025-05-17T08:55:06.316Z|0x569c|Player connection [22172]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 4065457313 [EditorId] 4065457313 [Version] 1048832 [Id] WindowsEditor(7,kira-rtx) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+2025-05-17T08:55:06.317Z|0x569c|Player connection [22172] Host joined multi-casting on [225.0.0.222:54997]...
+2025-05-17T08:55:06.318Z|0x569c|Player connection [22172] Host joined alternative multi-casting on [225.0.0.222:34997]...
+2025-05-17T08:55:06.318Z|0x569c|JobSystem: Creating JobQueue using job-worker-count value 15
+2025-05-17T08:55:06.321Z|0x569c|Input System module state changed to: Initialized.
+2025-05-17T08:55:06.321Z|0x569c|[Physics::Module] Initialized fallback backend.
+2025-05-17T08:55:06.321Z|0x569c|[Physics::Module] Id: 0xdecafbad
+2025-05-17T08:55:06.348Z|0x569c|Library Redirect Path: Library/
+2025-05-17T08:55:06.371Z|0x569c|[Physics::Module] Selected backend.
+2025-05-17T08:55:06.371Z|0x569c|[Physics::Module] Name: PhysX
+2025-05-17T08:55:06.371Z|0x569c|[Physics::Module] Id: 0xf2b8ea05
+2025-05-17T08:55:06.371Z|0x569c|[Physics::Module] SDK Version: 4.1.2
+2025-05-17T08:55:06.371Z|0x569c|[Physics::Module] Integration Version: 1.0.0
+2025-05-17T08:55:06.371Z|0x569c|[Physics::Module] Threading Mode: Multi-Threaded
+2025-05-17T08:55:06.377Z|0x569c|Refreshing native plugins compatible for Editor in 1.78 ms, found 4 plugins.
+2025-05-17T08:55:06.377Z|0x569c|Preloading 0 native plugins for Editor in 0.00 ms.
+2025-05-17T08:55:06.377Z|0x569c|Initialize engine version: 6000.1.3f1 (f34db9734971)
+2025-05-17T08:55:06.377Z|0x569c|[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/Resources/UnitySubsystems
+2025-05-17T08:55:06.377Z|0x569c|[Subsystems] Discovering subsystems at path C:/Users/kirae/Documents/projects/unity/jrpg_2d/Assets
+2025-05-17T08:55:06.377Z|0x569c|GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+2025-05-17T08:55:06.598Z|0x569c|Direct3D:
+2025-05-17T08:55:06.598Z|0x569c|    Version:         Direct3D 12 [level 12.1]
+2025-05-17T08:55:06.598Z|0x569c|    Renderer:        NVIDIA GeForce RTX 4080 SUPER (ID=0x2702)
+2025-05-17T08:55:06.598Z|0x569c|    Vendor:          NVIDIA
+2025-05-17T08:55:06.598Z|0x569c|    VRAM:            16047 MB
+2025-05-17T08:55:06.598Z|0x569c|    App VRAM Budget: 15279 MB
+2025-05-17T08:55:06.598Z|0x569c|    Driver:          32.0.15.7602
+2025-05-17T08:55:06.657Z|0x569c|Initialize mono
+2025-05-17T08:55:06.657Z|0x569c|Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/Managed'
+2025-05-17T08:55:06.657Z|0x569c|Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+2025-05-17T08:55:06.657Z|0x569c|Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/MonoBleedingEdge/etc'
+2025-05-17T08:55:06.657Z|0x569c|Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56832
+2025-05-17T08:55:06.686Z|0x569c|Begin MonoManager ReloadAssembly
+2025-05-17T08:55:06.806Z|0x569c|Registering precompiled unity dll's ...
+2025-05-17T08:55:06.806Z|0x569c|Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+2025-05-17T08:55:06.807Z|0x569c|Registered in 0.001127 seconds.
+2025-05-17T08:55:06.920Z|0x569c|- Loaded All Assemblies, in  0.234 seconds
+2025-05-17T08:55:06.973Z|0x569c|Native extension for WindowsStandalone target not found
+2025-05-17T08:55:07.133Z|0x569c|Mono: successfully reloaded assembly
+2025-05-17T08:55:07.143Z|0x569c|- Finished resetting the current domain, in  0.223 seconds
+2025-05-17T08:55:07.144Z|0x569c|Domain Reload Profiling: 456ms
+	BeginReloadAssembly (78ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (96ms)
+		LoadAssemblies (76ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (94ms)
+			TypeCache.Refresh (93ms)
+				TypeCache.ScanAssembly (85ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (223ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (193ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (34ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (38ms)
+			ProcessInitializeOnLoadAttributes (85ms)
+			ProcessInitializeOnLoadMethodAttributes (35ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+2025-05-17T08:55:07.257Z|0x569c|========================================================================
+2025-05-17T08:55:07.257Z|0x569c|Worker process is ready to serve import requests
+2025-05-17T08:55:07.257Z|0x569c|Import Worker Mode flag is 0x00
+2025-05-17T08:55:07.343Z|0x569c|Begin MonoManager ReloadAssembly
+2025-05-17T08:55:07.849Z|0x569c|- Loaded All Assemblies, in  0.505 seconds
+2025-05-17T08:55:08.002Z|0x569c|Refreshing native plugins compatible for Editor in 0.96 ms, found 4 plugins.
+2025-05-17T08:55:08.081Z|0x569c|Native extension for WindowsStandalone target not found
+2025-05-17T08:55:08.388Z|0x569c|Package Manager log level set to [2]
+2025-05-17T08:55:08.388Z|0x569c|[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+2025-05-17T08:55:08.388Z|0x569c|[Package Manager] Unable to send message (not connected to server process).
+2025-05-17T08:55:08.388Z|0x569c|[Package Manager] Cannot connect to Unity Package Manager local server
+2025-05-17T08:55:08.480Z|0x569c|Mono: successfully reloaded assembly
+2025-05-17T08:55:08.487Z|0x569c|- Finished resetting the current domain, in  0.483 seconds
+2025-05-17T08:55:08.487Z|0x569c|Domain Reload Profiling: 986ms
+	BeginReloadAssembly (109ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (19ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (338ms)
+		LoadAssemblies (227ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (170ms)
+			TypeCache.Refresh (125ms)
+				TypeCache.ScanAssembly (113ms)
+			BuildScriptInfoCaches (36ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (483ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (395ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (75ms)
+			ProcessInitializeOnLoadAttributes (241ms)
+			ProcessInitializeOnLoadMethodAttributes (73ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+2025-05-17T08:55:08.605Z|0x569c|Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+2025-05-17T08:55:08.642Z|0x569c|Refreshing native plugins compatible for Editor in 0.81 ms, found 4 plugins.
+2025-05-17T08:55:08.642Z|0x569c|Preloading 0 native plugins for Editor in 0.00 ms.
+2025-05-17T08:55:08.644Z|0x750c|Unloading 217 Unused Serialized files (Serialized files now loaded: 0)
+2025-05-17T08:55:08.650Z|0x569c|Unloading 6622 unused Assets / (6.2 MB). Loaded Objects now: 7289.
+Memory consumption went from 175.2 MB to 168.9 MB.
+2025-05-17T08:55:08.650Z|0x569c|Total: 5.588900 ms (FindLiveObjects: 0.402900 ms CreateObjectMapping: 0.232300 ms MarkObjects: 3.133500 ms  DeleteObjects: 1.819500 ms)
+
+2025-05-17T08:57:10.929Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 42846.665130 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/New Tile Palette.prefab
+  artifactKey: Guid(3a1cde3daaf9f9e4fb79cffd03e7e8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:10.937Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/New Tile Palette.prefab using Guid(3a1cde3daaf9f9e4fb79cffd03e7e8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'efc112e5866c7080d43d51242013399a') in 0.4030514 seconds
+2025-05-17T08:57:11.359Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+2025-05-17T08:57:12.361Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 1.001647 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/New Tile Palette.prefab
+  artifactKey: Guid(3a1cde3daaf9f9e4fb79cffd03e7e8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.369Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/New Tile Palette.prefab using Guid(3a1cde3daaf9f9e4fb79cffd03e7e8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '72c03cd03b1a2a96304c0a561357fcff') in 0.1103248 seconds
+2025-05-17T08:57:12.497Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 811
+
+2025-05-17T08:57:12.497Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_4.asset
+  artifactKey: Guid(72fffa772002a29438bdc96c6b397206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.504Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_4.asset using Guid(72fffa772002a29438bdc96c6b397206) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'de9e38dcf4e7d8b119bf5845209b90ca') in 0.0283533 seconds
+2025-05-17T08:57:12.553Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:12.553Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_24.asset
+  artifactKey: Guid(b80c3bf9f6ae32c43becc432c64fafd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.561Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_24.asset using Guid(b80c3bf9f6ae32c43becc432c64fafd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dbda7662a36cb241988b940588ab0d54') in 0.011199 seconds
+2025-05-17T08:57:12.589Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:12.589Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_8.asset
+  artifactKey: Guid(4f2a1663533d3624593baddc50c28967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.596Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_8.asset using Guid(4f2a1663533d3624593baddc50c28967) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a40642996fc35d956cd05c481b8c1c2') in 0.0118118 seconds
+2025-05-17T08:57:12.625Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:12.626Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_5.asset
+  artifactKey: Guid(d3c901337fc7dc1468d94dc1387ef3b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.633Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_5.asset using Guid(d3c901337fc7dc1468d94dc1387ef3b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f84b165c4250619c0908bab4f96442ae') in 0.0129058 seconds
+2025-05-17T08:57:12.660Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:12.661Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_3.asset
+  artifactKey: Guid(a7ac72f3127a24447aebd3d9517dbc68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.668Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_3.asset using Guid(a7ac72f3127a24447aebd3d9517dbc68) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f9e817c0509af3ddd8f547411a7c1a7d') in 0.0115752 seconds
+2025-05-17T08:57:12.693Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:12.693Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_17.asset
+  artifactKey: Guid(42f55a6dfe1ff1844855fd00ab7d0853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.701Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_17.asset using Guid(42f55a6dfe1ff1844855fd00ab7d0853) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ed23e36d20565ce97b508a56af780ef3') in 0.0121092 seconds
+2025-05-17T08:57:12.734Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:12.734Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_20.asset
+  artifactKey: Guid(57cd86c51dbed7348b69388a0298d1d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.741Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_20.asset using Guid(57cd86c51dbed7348b69388a0298d1d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5d28a725475d6577a5e2ee1373af7ae6') in 0.0145491 seconds
+2025-05-17T08:57:12.769Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:12.769Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_34.asset
+  artifactKey: Guid(49d4593edab68514fb20a8cf780118d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.775Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_34.asset using Guid(49d4593edab68514fb20a8cf780118d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a44a92119c7625bfa160841e33168c19') in 0.0149266 seconds
+2025-05-17T08:57:12.805Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:12.805Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_42.asset
+  artifactKey: Guid(49aede3b111a01f4d83ab06c8973c822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.812Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_42.asset using Guid(49aede3b111a01f4d83ab06c8973c822) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '78fab902c7af16dcf85572a258b9b96b') in 0.0121613 seconds
+2025-05-17T08:57:12.840Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:12.840Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_40.asset
+  artifactKey: Guid(18b9bed47b828b449a23875b9868fd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.847Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_40.asset using Guid(18b9bed47b828b449a23875b9868fd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5e7e8f966a14b47928cf0c0b83d24d8c') in 0.0162707 seconds
+2025-05-17T08:57:12.877Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:12.877Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_7.asset
+  artifactKey: Guid(d4eea68a2a50e8d49b1192542c24806b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.885Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_7.asset using Guid(d4eea68a2a50e8d49b1192542c24806b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '92f70b7a495cc256855aa950695ad041') in 0.0142066 seconds
+2025-05-17T08:57:12.913Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:12.913Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_16.asset
+  artifactKey: Guid(e147880e309da04419e18ba2ea67fe3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.919Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_16.asset using Guid(e147880e309da04419e18ba2ea67fe3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3209342abbfdb5841cecb2d45b550f50') in 0.0119611 seconds
+2025-05-17T08:57:12.945Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:12.945Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_10.asset
+  artifactKey: Guid(7e2f28aa5a6312646a21cb7ba38808e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.950Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_10.asset using Guid(7e2f28aa5a6312646a21cb7ba38808e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aa4f7b9eb3477b24479ab886d1757fcb') in 0.0112562 seconds
+2025-05-17T08:57:12.975Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:12.975Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_14.asset
+  artifactKey: Guid(2b7ab9e1e99780948aeaa80b5ac72a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:12.982Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_14.asset using Guid(2b7ab9e1e99780948aeaa80b5ac72a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '997af39cbd0b6b62ea1700fa4ddca59f') in 0.0117875 seconds
+2025-05-17T08:57:13.006Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:13.007Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_12.asset
+  artifactKey: Guid(749490b377b360240b7476c101a52404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:13.013Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_12.asset using Guid(749490b377b360240b7476c101a52404) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f048d7ee4bf4745397c63ca870bf7b58') in 0.0132493 seconds
+2025-05-17T08:57:13.039Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:13.039Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_35.asset
+  artifactKey: Guid(de8b3168caaf5784e803d3904d1db1de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:13.045Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_35.asset using Guid(de8b3168caaf5784e803d3904d1db1de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2c2f899677203abc9a8eb04bacef0e91') in 0.0129087 seconds
+2025-05-17T08:57:13.071Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:13.071Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_27.asset
+  artifactKey: Guid(4b3d21fd48f15d948ae9d6f5aeec34d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:13.079Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_27.asset using Guid(4b3d21fd48f15d948ae9d6f5aeec34d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1a926aac630a4f8b2f1a54aca268b87') in 0.0143142 seconds
+2025-05-17T08:57:13.116Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:13.116Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_36.asset
+  artifactKey: Guid(4bdc3c2540dc4ae4e82b1beb0238b0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:13.122Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_36.asset using Guid(4bdc3c2540dc4ae4e82b1beb0238b0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'afd472f4a81b665878e8302b5d15be70') in 0.0151427 seconds
+2025-05-17T08:57:13.153Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:13.153Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_47.asset
+  artifactKey: Guid(e806d010241fea54cafb3a9691139a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:13.158Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_47.asset using Guid(e806d010241fea54cafb3a9691139a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e31a227b3a09d461ae8f4468309011f') in 0.0158347 seconds
+2025-05-17T08:57:13.197Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:13.197Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_9.asset
+  artifactKey: Guid(3e6bb2c19760a4344989827ce7dc8523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:13.203Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_9.asset using Guid(3e6bb2c19760a4344989827ce7dc8523) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '48bc0a36bcd1e8d12c9bea09e0835d97') in 0.0238869 seconds
+2025-05-17T08:57:13.249Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:13.249Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_38.asset
+  artifactKey: Guid(028921a1ace2f594bb4fa6117f36fcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:13.255Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_38.asset using Guid(028921a1ace2f594bb4fa6117f36fcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1cfc3ce276643178ec99e863d5bde643') in 0.0101303 seconds
+2025-05-17T08:57:13.295Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:13.295Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_39.asset
+  artifactKey: Guid(d4e9d16188aa81c4d82617bc03ad2e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:13.301Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_39.asset using Guid(d4e9d16188aa81c4d82617bc03ad2e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7cac246e472ce2372815fa14a42a4b32') in 0.0142384 seconds
+2025-05-17T08:57:13.335Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.312Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.976880 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_48.asset
+  artifactKey: Guid(49195c89d2b9ca14794f7eec47c9f053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:14.319Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_48.asset using Guid(49195c89d2b9ca14794f7eec47c9f053) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '671e8509c714f958e7059b0adfdb23ca') in 0.0132579 seconds
+2025-05-17T08:57:14.358Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.358Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_50.asset
+  artifactKey: Guid(35c960e02bfdd5b47b0639c95076a157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:14.366Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_50.asset using Guid(35c960e02bfdd5b47b0639c95076a157) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b4fe8c38b2ad141e266f99c9c95d6d10') in 0.0156815 seconds
+2025-05-17T08:57:14.412Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.412Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_54.asset
+  artifactKey: Guid(399b7ff5fd3947241b114010a3abda8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:14.422Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_54.asset using Guid(399b7ff5fd3947241b114010a3abda8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3d6cba4b7bd226aaf7e95524ca9aa7d1') in 0.0138058 seconds
+2025-05-17T08:57:14.467Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.468Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_68.asset
+  artifactKey: Guid(9eda07ba8ab20734da6b64eb2d53c1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:14.478Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_68.asset using Guid(9eda07ba8ab20734da6b64eb2d53c1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f9572164ee3a146e9fe9b1f0a499d5e') in 0.0071931 seconds
+2025-05-17T08:57:14.514Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.514Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_64.asset
+  artifactKey: Guid(0972ff7228d5d2740bbe461a334d4a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:14.523Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_64.asset using Guid(0972ff7228d5d2740bbe461a334d4a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c5b0e5441f4938749220a87bbad12c29') in 0.0159679 seconds
+2025-05-17T08:57:14.563Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.563Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_67.asset
+  artifactKey: Guid(48bdf01ff6edaa042859802948341671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:14.572Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_67.asset using Guid(48bdf01ff6edaa042859802948341671) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '513ea77f1c18cf0b299724629f18eaa6') in 0.0155862 seconds
+2025-05-17T08:57:14.612Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.613Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_69.asset
+  artifactKey: Guid(3693cd840361286428336700475f8c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:14.620Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_69.asset using Guid(3693cd840361286428336700475f8c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b876a20c82f84ed9d5a552d8fd30c7bf') in 0.0140391 seconds
+2025-05-17T08:57:14.655Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.655Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_62.asset
+  artifactKey: Guid(26224ba29845097488651ee8ea1ae305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:14.664Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_62.asset using Guid(26224ba29845097488651ee8ea1ae305) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '92c89068a1e0a06c57a74c7425fd653e') in 0.0144124 seconds
+2025-05-17T08:57:14.706Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.706Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_56.asset
+  artifactKey: Guid(2fb933668687a4e4984c4d210154f5ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:14.717Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_56.asset using Guid(2fb933668687a4e4984c4d210154f5ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0dea25780dc71aaac40548408f6be8b') in 0.0170328 seconds
+2025-05-17T08:57:14.763Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.763Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_83.asset
+  artifactKey: Guid(451b08eebf8fd264f85d0aa241cf0328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:14.772Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_83.asset using Guid(451b08eebf8fd264f85d0aa241cf0328) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '22f477e973a070d245ae80f411cf3a9a') in 0.0151278 seconds
+2025-05-17T08:57:14.805Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.806Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_84.asset
+  artifactKey: Guid(9bc82341d2c45dc4da4b0aa54403911e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:14.814Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_84.asset using Guid(9bc82341d2c45dc4da4b0aa54403911e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '05365d3f898e0879e07878f9abf3ec2a') in 0.0148415 seconds
+2025-05-17T08:57:14.852Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.852Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_81.asset
+  artifactKey: Guid(ed13a4a1b45ed1d458c6676ef9c29457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:14.861Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_81.asset using Guid(ed13a4a1b45ed1d458c6676ef9c29457) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5a1c7d8559d5a8351e2d9db042092555') in 0.0169389 seconds
+2025-05-17T08:57:14.896Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.896Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_101.asset
+  artifactKey: Guid(848915b5a88a682469d125313136637a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:14.903Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_101.asset using Guid(848915b5a88a682469d125313136637a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb2299ca1e0636e095f6d82148000909') in 0.0148904 seconds
+2025-05-17T08:57:14.944Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.944Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_82.asset
+  artifactKey: Guid(6ef039609bd19b14e92fa63677408e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:14.952Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_82.asset using Guid(6ef039609bd19b14e92fa63677408e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c11134f87e48d68c57e7457a4a469e9') in 0.0155284 seconds
+2025-05-17T08:57:14.993Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:14.993Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_86.asset
+  artifactKey: Guid(3b2328c836cd3c148ac68fb0077e43a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.002Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_86.asset using Guid(3b2328c836cd3c148ac68fb0077e43a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '681a66988efef490e77f47f0ed84cf01') in 0.0148065 seconds
+2025-05-17T08:57:15.036Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.036Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_74.asset
+  artifactKey: Guid(44ec9796d0848b64ab0dcc4b60ecfb9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.043Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_74.asset using Guid(44ec9796d0848b64ab0dcc4b60ecfb9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd57e4f22d75f98ac2e22d0a7a032b567') in 0.0131076 seconds
+2025-05-17T08:57:15.081Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.081Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_103.asset
+  artifactKey: Guid(73af0cf5c1dc28046ad1191385da1c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.088Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_103.asset using Guid(73af0cf5c1dc28046ad1191385da1c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd03ee8d8abebb15ee095da8b17196610') in 0.0129337 seconds
+2025-05-17T08:57:15.124Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.124Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_75.asset
+  artifactKey: Guid(acceae44c3d7cb24f9ea6708c31d260e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.133Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_75.asset using Guid(acceae44c3d7cb24f9ea6708c31d260e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cfce48ae7861698680864aa412d067ff') in 0.0133887 seconds
+2025-05-17T08:57:15.163Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.163Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_98.asset
+  artifactKey: Guid(65508b30efd6b954793bd8a5fc8179e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.171Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_98.asset using Guid(65508b30efd6b954793bd8a5fc8179e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e02d2b56485b7ca88ce4e1d93f257286') in 0.0162427 seconds
+2025-05-17T08:57:15.202Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.202Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_107.asset
+  artifactKey: Guid(d2dcdc196842aef4dabf7bf4ac67d3e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.211Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_107.asset using Guid(d2dcdc196842aef4dabf7bf4ac67d3e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e7ed3f9df2c82c7554273e1e31983d06') in 0.0172764 seconds
+2025-05-17T08:57:15.253Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.253Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_104.asset
+  artifactKey: Guid(c9b6fdd08aa734845ab6a97f803a77fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.261Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_104.asset using Guid(c9b6fdd08aa734845ab6a97f803a77fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3ad39bc236e6921ce115c115aba41d39') in 0.0145791 seconds
+2025-05-17T08:57:15.303Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.304Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_93.asset
+  artifactKey: Guid(45e00f092e764454c926964e64bdd3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.312Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_93.asset using Guid(45e00f092e764454c926964e64bdd3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '50823a828943c5eb799b6528a5348279') in 0.0141737 seconds
+2025-05-17T08:57:15.354Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.354Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_88.asset
+  artifactKey: Guid(a1c168a6db9633e409664ed130665635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.361Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_88.asset using Guid(a1c168a6db9633e409664ed130665635) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd83a71fd11b7835f4e05dd1714c7c147') in 0.0138067 seconds
+2025-05-17T08:57:15.404Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.404Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_52.asset
+  artifactKey: Guid(befdcc052133ee14ba1ee839639c6813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.413Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_52.asset using Guid(befdcc052133ee14ba1ee839639c6813) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c34d0fdb2d4a77ce1650855cf8443920') in 0.0151703 seconds
+2025-05-17T08:57:15.451Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.452Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_76.asset
+  artifactKey: Guid(b7c70b88307ef6b4dac9d6724da8975c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.462Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_76.asset using Guid(b7c70b88307ef6b4dac9d6724da8975c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '02488eb02529312550f43f25bd9c6650') in 0.0143668 seconds
+2025-05-17T08:57:15.501Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.502Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_108.asset
+  artifactKey: Guid(41d76f9aa413f7e4ba8f8a37cdb5ef0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.511Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_108.asset using Guid(41d76f9aa413f7e4ba8f8a37cdb5ef0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a19dee54c728df89a849c44e9ceb100') in 0.0158409 seconds
+2025-05-17T08:57:15.547Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.547Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_115.asset
+  artifactKey: Guid(664c288350ef5454293da485d8e0028e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.556Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_115.asset using Guid(664c288350ef5454293da485d8e0028e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f8f2b5eef3ff042f86018e3ba7ccdf7') in 0.012694 seconds
+2025-05-17T08:57:15.595Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.595Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_118.asset
+  artifactKey: Guid(2e755e1823555a54788d32039d796683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.601Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_118.asset using Guid(2e755e1823555a54788d32039d796683) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '74289850ff580a325b261c34513f7040') in 0.0155377 seconds
+2025-05-17T08:57:15.639Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.639Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_123.asset
+  artifactKey: Guid(4e5c64a97f0e9744bb2d50cf8ed76720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.647Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_123.asset using Guid(4e5c64a97f0e9744bb2d50cf8ed76720) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ce075bda6ed27a314a1389fecea1c1d3') in 0.0134428 seconds
+2025-05-17T08:57:15.683Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.683Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_134.asset
+  artifactKey: Guid(e25e5ff2d00b7614fb8ee370343635b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.692Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_134.asset using Guid(e25e5ff2d00b7614fb8ee370343635b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33414d30e9b7c906def6b8df6fd8ebb3') in 0.0145214 seconds
+2025-05-17T08:57:15.727Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:57:15.727Z|0x569c|========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_130.asset
+  artifactKey: Guid(61ddd338930a7d54b8386e30d55a4669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2025-05-17T08:57:15.736Z|0x569c|Start importing Assets/Kira/Tilesets/TinyRPG Forest/tileset-sliced_130.asset using Guid(61ddd338930a7d54b8386e30d55a4669) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4876fb6557fe3989c2f56ff05413e167') in 0.0056081 seconds
+2025-05-17T08:57:15.761Z|0x569c|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+2025-05-17T08:58:33.982Z|0x8078|Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+2025-05-17T08:58:34.045Z|0x569c|AssetImportWorker is now disconnected from the server
+2025-05-17T08:58:34.045Z|0x569c|Process exiting
+2025-05-17T08:58:34.045Z|0x569c|Exiting without the bug reporter. Application will terminate with return code 0
