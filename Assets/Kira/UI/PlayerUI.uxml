@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Kira/UI/PlayerUI.uss?fileID=7433441132597879392&amp;guid=1de80b35c09bc4e47a3e2028a7ac0d5a&amp;type=3#PlayerUI" />
+    <ui:VisualElement name="menu-container" class="InGameMenu" style="flex-grow: 1; visibility: visible; display: flex; padding-top: 4px; padding-right: 4px; padding-bottom: 4px; padding-left: 4px;">
+        <ui:ListView name="menu-list" data-source="project://database/Assets/Kira/UI/MenuListElement.uxml?fileID=9197481963319205126&amp;guid=2e1b1b357c63e974a8d2c724f1ba39d6&amp;type=3#MenuListElement" focusable="false" show-border="false" selection-type="None" />
+    </ui:VisualElement>
+</ui:UXML>

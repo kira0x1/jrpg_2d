@@ -1,0 +1,31 @@
+:root {
+}
+
+.InGameMenu {
+    left: 0;
+    bottom: auto;
+    top: auto;
+    width: 18%;
+    height: auto;
+    background-color: rgba(83, 83, 83, 0.72);
+    position: relative;
+    flex-grow: 1;
+    opacity: 1;
+    display: flex;
+    visibility: hidden;
+}
+
+.menu-element {
+    background-color: #ccc;
+    flex-grow: 1;
+    align-self: auto;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    margin: 2px;
+}
+
+.menu-label {
+    align-self: stretch;
+    color: #aaa;
+}
