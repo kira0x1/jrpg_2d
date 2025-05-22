@@ -15,6 +15,9 @@ namespace Kira
         [SerializeField]
         private bool useEncryption = true;
 
+        [SerializeField]
+        private bool autoSave = true;
+
         private GameData _gameData;
         private List<IDataPersistence> _dataPersistenceObjects = new();
         private FileDataHandler _dataHandler;
@@ -42,13 +45,19 @@ namespace Kira
 
         private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
         {
-            _dataPersistenceObjects = FindAllDataPersistenceObjects();
-            LoadGame();
+            if (autoSave)
+            {
+                _dataPersistenceObjects = FindAllDataPersistenceObjects();
+                LoadGame();
+            }
         }
 
         private void OnSceneUnloaded(Scene scene)
         {
-            SaveGame();
+            if (autoSave)
+            {
+                SaveGame();
+            }
         }
 
         private List<IDataPersistence> FindAllDataPersistenceObjects()
@@ -115,7 +124,11 @@ namespace Kira
         private void OnApplicationQuit()
         {
             // if (SceneManager.GetActiveScene().buildIndex > 0)
-            SaveGame();
+
+            if (autoSave)
+            {
+                SaveGame();
+            }
         }
 
         [ContextMenu("Delete GameData")]

@@ -25,9 +25,7 @@ namespace Kira
         private IEnumerator HandleTransition()
         {
             curTransitionTime = 0f;
-            Scene activeScene = SceneManager.GetActiveScene();
-            Debug.Log($"active scene: {activeScene.name}");
-            AsyncOperation sceneTask = SceneManager.LoadSceneAsync(1, LoadSceneMode.Additive);
+            AsyncOperation sceneTask = SceneManager.LoadSceneAsync((int)SceneData.BattleScene, LoadSceneMode.Additive);
 
             if (sceneTask == null)
             {
@@ -53,7 +51,7 @@ namespace Kira
                 yield return null;
             }
 
-            SceneManager.UnloadSceneAsync(activeScene);
+            SceneManager.UnloadSceneAsync((int)SceneData.OverWorld);
             sceneTask.allowSceneActivation = true;
             OnTransitionDone();
         }

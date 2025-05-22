@@ -8,6 +8,7 @@
     {
         public CharacterData playerCharacter;
         public Vector2 position;
+        public Vector3 rotation;
 
         // TODO: fill in with jrpg data
 
@@ -15,6 +16,7 @@
         {
             playerCharacter = new CharacterData();
             position = new Vector2();
+            rotation = new Vector3();
         }
     }
 }

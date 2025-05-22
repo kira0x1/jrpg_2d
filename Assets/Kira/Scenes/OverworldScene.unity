@@ -239,52 +239,6 @@ CanvasGroup:
   m_Interactable: 0
   m_BlocksRaycasts: 0
   m_IgnoreParentGroups: 0
---- !u!1 &300110420
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 300110421}
-  - component: {fileID: 300110422}
-  m_Layer: 0
-  m_Name: Data Manager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &300110421
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 300110420}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &300110422
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 300110420}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eb02c4cb51924ee5bfb8ec6f5b1221bb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  initializeDataIfNull: 1
-  useEncryption: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1503,6 +1457,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d989bcbf5ad1e04d9b8cdb9e183f6b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  character:
+    name: 
+    gender: 0
+    health: 0
+    maxHealth: 0
+    isDead: 0
+    gold: 0
 --- !u!224 &1242654654 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 8441571715447018269, guid: 5c5e6ded2cc3122449ea28c33863119b, type: 3}
@@ -24103,4 +24064,3 @@ SceneRoots:
   - {fileID: 1590728438}
   - {fileID: 87073373}
   - {fileID: 1882660079}
-  - {fileID: 300110421}
