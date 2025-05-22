@@ -5,7 +5,7 @@ AssetOrigin:
   productId: 128440
   packageName: Pixel UI
   packageVersion: 1.5
-  assetPath: Assets/Pixel UI/Sprites/UI/Square/Square (Internal Invisible).png
+  assetPath: Assets/OtherAssets/Pixel UI/Sprites/UI/Square/Square (Internal Invisible).png
   uploadId: 323337
 TextureImporter:
   internalIDToNameTable: []
