@@ -4,12 +4,11 @@ namespace Kira
     using TMPro;
     using UnityEngine;
     using UnityEngine.SceneManagement;
-    using UnityEngine.Serialization;
 
     public class BattleManager : MonoBehaviour
     {
         [SerializeField] private CanvasGroup transitionCanvas;
-        [FormerlySerializedAs("transitionTime"), SerializeField, Range(0, 5f)] private float minTransitionTime = 1.0f;
+        [SerializeField, Range(0, 5f)] private float minTransitionTime = 1.0f;
         [SerializeField] private TextMeshProUGUI transitionText;
 
         private float curTransitionTime;
